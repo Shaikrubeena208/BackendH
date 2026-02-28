@@ -1,0 +1,1235 @@
+[{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e6e9"
+  },
+  "name": "Oman Chips",
+  "description": "Crunchy and flavorful potato chips from Oman, perfect for snacking",
+  "category": "snacks",
+  "price": 2.99,
+  "images": [
+    {
+      "url": "/oman chips.jpeg",
+      "alt": "Oman Chips",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e6ea"
+      }
+    }
+  ],
+  "brand": "Oman Chips",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "OC-001",
+      "certifyingBody": "Alisha Ihani",
+      "certificateUrl": "https://www.alishaihani.net/en/certification-and-accreditation"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 100,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.582Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e6eb"
+  },
+  "name": "Sohar Chips",
+  "description": "Premium quality chips from Sohar, crispy and delicious",
+  "category": "snacks",
+  "price": 3.49,
+  "images": [
+    {
+      "url": "/Sohar chips.jpeg",
+      "alt": "Sohar Chips",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e6ec"
+      }
+    }
+  ],
+  "brand": "Sohar",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "SC-001",
+      "certifyingBody": "Alisha Ihani",
+      "certificateUrl": "https://www.alishaihani.net/en/certification-and-accreditation"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 85,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.588Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e6ed"
+  },
+  "name": "Salad Chips",
+  "description": "Healthy and tasty salad-flavored chips, light and satisfying",
+  "category": "snacks",
+  "price": 3.29,
+  "images": [
+    {
+      "url": "/salad chips.jpeg",
+      "alt": "Salad Chips",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e6ee"
+      }
+    }
+  ],
+  "brand": "Salad Chips",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "SC-002",
+      "certifyingBody": "Alisha Ihani",
+      "certificateUrl": "https://www.alishaihani.net/en/certification-and-accreditation"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 90,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.588Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e6ef"
+  },
+  "name": "Biscoff Cookies",
+  "description": "Classic caramelized biscuit cookies, perfect with coffee or tea",
+  "category": "snacks",
+  "price": 4.99,
+  "images": [
+    {
+      "url": "/biscoff.jpeg",
+      "alt": "Biscoff Cookies",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e6f0"
+      }
+    }
+  ],
+  "brand": "Biscoff",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "BC-001",
+      "certifyingBody": "Verify Halal",
+      "certificateUrl": "https://verifyhalal.com/product-single.html?id=6921585"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 75,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.589Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e6f1"
+  },
+  "name": "Premium Cashews",
+  "description": "High-quality cashew nuts, rich and nutritious",
+  "category": "snacks",
+  "price": 8.99,
+  "images": [
+    {
+      "url": "/cashews .jpeg",
+      "alt": "Premium Cashews",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e6f2"
+      }
+    }
+  ],
+  "brand": "Premium Nuts",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "CN-001",
+      "certifyingBody": "Subhan Bakery",
+      "certificateUrl": "https://www.subhanbakery.in/"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 60,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.589Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e6f3"
+  },
+  "name": "Rooh Afza",
+  "description": "Traditional refreshing drink concentrate, perfect for summer",
+  "category": "beverages",
+  "price": 5.99,
+  "images": [
+    {
+      "url": "/rooh afza.jpg",
+      "alt": "Rooh Afza",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e6f4"
+      }
+    }
+  ],
+  "brand": "Hamdard",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "RA-001",
+      "certifyingBody": "Hamdard",
+      "certificateUrl": "https://www.hamdard.com"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 120,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.589Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e6f5"
+  },
+  "name": "Vimto Cordial",
+  "description": "Fruity cordial drink, refreshing and delicious",
+  "category": "beverages",
+  "price": 6.49,
+  "images": [
+    {
+      "url": "/vimto.jpg",
+      "alt": "Vimto Cordial",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e6f6"
+      }
+    }
+  ],
+  "brand": "Vimto",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "VC-001",
+      "certifyingBody": "Vimto Arabia",
+      "certificateUrl": "https://vimtoarabia.com/products/cordial/"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 95,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.589Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e6f7"
+  },
+  "name": "Rooh Afza Lassi",
+  "description": "Creamy lassi drink with Rooh Afza flavor, refreshing and nutritious",
+  "category": "beverages",
+  "price": 4.99,
+  "images": [
+    {
+      "url": "/Rooh Afza Lassi.jpg",
+      "alt": "Rooh Afza Lassi",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e6f8"
+      }
+    }
+  ],
+  "brand": "Barbican",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "RL-001",
+      "certifyingBody": "Barbican",
+      "certificateUrl": "https://barbicanworld.com/faq/"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 80,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.590Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e6f9"
+  },
+  "name": "Chicken Spicy Salami",
+  "description": "Spicy and flavorful chicken salami, perfect for sandwiches",
+  "category": "meat",
+  "price": 7.99,
+  "images": [
+    {
+      "url": "/Chicken Spicy Salami.jpeg",
+      "alt": "Chicken Spicy Salami",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e6fa"
+      }
+    }
+  ],
+  "brand": "Zorabian",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "CS-001",
+      "certifyingBody": "Zorabian",
+      "certificateUrl": "https://www.zorabian.com/wp-content/uploads/2025/12/Zorabian-Halal-Certificate.pdf"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "non-vegetarian"
+  ],
+  "stock": {
+    "quantity": 45,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.590Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e6fb"
+  },
+  "name": "Chicken Nuggets",
+  "description": "Crispy and delicious chicken nuggets, perfect for snacks",
+  "category": "meat",
+  "price": 8.99,
+  "images": [
+    {
+      "url": "/Chicken Nuggets.jpeg",
+      "alt": "Chicken Nuggets",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e6fc"
+      }
+    }
+  ],
+  "brand": "Zorabian",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "CN-002",
+      "certifyingBody": "Zorabian",
+      "certificateUrl": "https://www.zorabian.com/wp-content/uploads/2025/12/Zorabian-Halal-Certificate.pdf"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "non-vegetarian"
+  ],
+  "stock": {
+    "quantity": 55,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.590Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e6fd"
+  },
+  "name": "Chicken Breast Boneless",
+  "description": "Premium boneless chicken breast, tender and juicy",
+  "category": "meat",
+  "price": 12.99,
+  "images": [
+    {
+      "url": "/Chicken Breast Boneless.jpeg",
+      "alt": "Chicken Breast Boneless",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e6fe"
+      }
+    }
+  ],
+  "brand": "Zorabian",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "CB-001",
+      "certifyingBody": "Zorabian",
+      "certificateUrl": "https://www.zorabian.com/wp-content/uploads/2025/12/Zorabian-Halal-Certificate.pdf"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "non-vegetarian"
+  ],
+  "stock": {
+    "quantity": 40,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.590Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e6ff"
+  },
+  "name": "Ustad Banne Nawab Bombay Chicken Biryani Spice Mix",
+  "description": "Authentic spice mix for Bombay chicken biryani, aromatic and flavorful",
+  "category": "pantry",
+  "price": 3.99,
+  "images": [
+    {
+      "url": "/Ustad banne nawab Bombay chicken biryani spice mix.webp",
+      "alt": "Bombay Biryani Spice Mix",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e700"
+      }
+    }
+  ],
+  "brand": "Ustad Banne Nawab",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "UB-001",
+      "certifyingBody": "Ustad Banne Nawab",
+      "certificateUrl": "https://www.ustadbannenawab.com/"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 110,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.590Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e701"
+  },
+  "name": "Ustad Banne Nawab Crispy Fried Chicken Mix",
+  "description": "Perfect coating mix for crispy fried chicken, restaurant quality at home",
+  "category": "pantry",
+  "price": 4.49,
+  "images": [
+    {
+      "url": "/Ustad banne nawab crispy fried chicken mix.jpg",
+      "alt": "Crispy Fried Chicken Mix",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e702"
+      }
+    }
+  ],
+  "brand": "Ustad Banne Nawab",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "UC-001",
+      "certifyingBody": "Ustad Banne Nawab",
+      "certificateUrl": "https://www.ustadbannenawab.com/"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 85,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.590Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e703"
+  },
+  "name": "Hamdard Khaalis Chaat Masala",
+  "description": "Aromatic chaat masala blend, perfect for street food flavors",
+  "category": "pantry",
+  "price": 2.99,
+  "images": [
+    {
+      "url": "/Hamdard khaalis chaat masala.jpg",
+      "alt": "Khaalis Chaat Masala",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e704"
+      }
+    }
+  ],
+  "brand": "Hamdard",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "HC-001",
+      "certifyingBody": "Hamdard",
+      "certificateUrl": "https://www.hamdard.com"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 130,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.591Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e705"
+  },
+  "name": "Hamdard Khaalis Roasted Sewiyan (400g)",
+  "description": "Premium roasted vermicelli, perfect for desserts and sweets",
+  "category": "pantry",
+  "price": 5.49,
+  "images": [
+    {
+      "url": "/Hamdard khaalis roasted Sewiyan (400g) .jpeg",
+      "alt": "Khaalis Roasted Sewiyan",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e706"
+      }
+    }
+  ],
+  "brand": "Hamdard",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "HS-001",
+      "certifyingBody": "Hamdard",
+      "certificateUrl": "https://www.hamdard.com"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 75,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.591Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e707"
+  },
+  "name": "Hamdard Khaalis Roasted Sewiyan (400g) Alternative",
+  "description": "Premium roasted vermicelli alternative pack, same great quality",
+  "category": "pantry",
+  "price": 5.49,
+  "images": [
+    {
+      "url": "/Hamdard khaalis roasted Sewiyan (400g).jpg",
+      "alt": "Khaalis Roasted Sewiyan Alternative",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e708"
+      }
+    }
+  ],
+  "brand": "Hamdard",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "HS-002",
+      "certifyingBody": "Hamdard",
+      "certificateUrl": "https://www.hamdard.com"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 70,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.591Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e709"
+  },
+  "name": "Instant Falafel Mix",
+  "description": "Easy-to-prepare falafel mix, authentic Middle Eastern flavors",
+  "category": "pantry",
+  "price": 4.99,
+  "images": [
+    {
+      "url": "/Instant Falafel mix .jpeg",
+      "alt": "Instant Falafel Mix",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e70a"
+      }
+    }
+  ],
+  "brand": "Bakr Gourmet",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "IF-001",
+      "certifyingBody": "Bakr Gourmet",
+      "certificateUrl": "https://www.bakrgourmet.com"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 90,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.591Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e70b"
+  },
+  "name": "Garlic Toum (175g)",
+  "description": "Traditional garlic sauce, creamy and flavorful",
+  "category": "pantry",
+  "price": 3.99,
+  "images": [
+    {
+      "url": "/Garlic toum 175 gms.jpg",
+      "alt": "Garlic Toum",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e70c"
+      }
+    }
+  ],
+  "brand": "Bakr Gourmet",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "GT-001",
+      "certifyingBody": "Bakr Gourmet",
+      "certificateUrl": "https://www.bakrgourmet.com"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 65,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.591Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ca9ec20611986f8a3e70d"
+  },
+  "name": "Bakr Gourmet Harissa Sauce (175g)",
+  "description": "Spicy harissa sauce, authentic North African flavor",
+  "category": "pantry",
+  "price": 4.29,
+  "images": [
+    {
+      "url": "/Bakr gourmet harissa sauce  175gms.jpg",
+      "alt": "Harissa Sauce",
+      "_id": {
+        "$oid": "699ca9ec20611986f8a3e70e"
+      }
+    }
+  ],
+  "brand": "Bakr Gourmet",
+  "vendor": {
+    "$oid": "699c47be86fecc3bb0ff6ac6"
+  },
+  "certifications": {
+    "halal": {
+      "certified": true,
+      "certificateNumber": "BH-001",
+      "certifyingBody": "Bakr Gourmet",
+      "certificateUrl": "https://www.bakrgourmet.com"
+    },
+    "tayyib": {
+      "verified": false
+    },
+    "organic": {
+      "certified": false
+    }
+  },
+  "tags": [
+    "vegetarian"
+  ],
+  "stock": {
+    "quantity": 80,
+    "lowStockThreshold": 10,
+    "trackInventory": true
+  },
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "weight": {
+    "unit": "g"
+  },
+  "dimensions": {
+    "unit": "cm"
+  },
+  "ingredients": [],
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-23T19:26:36.591Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:47:51.869Z"
+  }
+}]
